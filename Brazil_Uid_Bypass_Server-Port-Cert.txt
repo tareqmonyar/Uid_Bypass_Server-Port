@@ -1,6 +1,6 @@
 {
   "proxy_address": "144.172.116.157",
-  "proxy_port": "65535",
+  "proxy_port": "7676",
   "certificate": "-----BEGIN CERTIFICATE-----
 MIIDNTCCAh2gAwIBAgIUIxcTZfZvXQWVWOZjt4zp5tgEwmEwDQYJKoZIhvcNAQEL
 BQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN
