@@ -20,6 +20,5 @@ bkf4xK+7nxtm3EhmMXM5taD2IToaZa23iHDoZRMYfwqFu78smfobk2Jr2hGKiN5I
 dMY6i+B2eyvy5vhUJcAk6lOAlp5s0CmNYXr0EUiQyo/ONxbr+EkqJY8aPI0sZS5m
 CTEoHB5TMGxTr6mZ3gCqPX1pPMls+7b2rCZfWUz6wlgSZq1u/EvTxf6hi6XVBJFq
 lejvS22p9wSM
------END CERTIFICATE-----
-"
+-----END CERTIFICATE-----"
 }
