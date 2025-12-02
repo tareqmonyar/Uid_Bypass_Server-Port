@@ -1,6 +1,6 @@
 {
   "proxy_address": "158.94.210.53",
-  "proxy_port": "8000",
+  "proxy_port": "9898",
   "certificate": "-----BEGIN CERTIFICATE-----
 MIIDNTCCAh2gAwIBAgIUOQg5Nji5tNaX5/JkXPO/1verP+4wDQYJKoZIhvcNAQEL
 BQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN
