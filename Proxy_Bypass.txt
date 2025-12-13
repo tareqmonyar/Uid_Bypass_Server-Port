@@ -1,6 +1,6 @@
 {
-  "proxy_address": "158.94.210.53",
-  "proxy_port": "7878",
+  "proxy_address": "wally.hidencloud.com",
+  "proxy_port": "24686",
   "certificate": "-----BEGIN CERTIFICATE-----
 MIIDNTCCAh2gAwIBAgIUcMvmeeFqeCanvKELDneDoguK+OEwDQYJKoZIhvcNAQEL
 BQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN
