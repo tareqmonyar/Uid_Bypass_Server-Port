@@ -1,6 +1,6 @@
 {
-  "proxy_address": "veda.hidencloud.com",
-  "proxy_port": "24692",
+  "proxy_address": "158.94.210.53",
+  "proxy_port": "9898",
   "certificate": "-----BEGIN CERTIFICATE-----
 MIIDNTCCAh2gAwIBAgIUCRoWBtrXVnQlLYybMlKRJw422PwwDQYJKoZIhvcNAQEL
 BQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN
