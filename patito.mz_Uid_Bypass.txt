@@ -1,6 +1,6 @@
 {
-  "proxy_address": "paloma.hidencloud.com",
-  "proxy_port": "5454",
+  "proxy_address": "158.94.210.53",
+  "proxy_port": "8090",
   "certificate": "-----BEGIN CERTIFICATE-----
 MIIDNTCCAh2gAwIBAgIUfY9iFIS5V7/w+tGmCA2lRrB+krswDQYJKoZIhvcNAQEL
 BQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN
