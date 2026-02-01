@@ -1,6 +1,6 @@
 {
-  "proxy_address": "switchback.proxy.rlwy.net",
-  "proxy_port": "35536",
+  "proxy_address": "metro.proxy.rlwy.net",
+  "proxy_port": "31999",
   "certificate": "-----BEGIN CERTIFICATE-----
 MIIDNTCCAh2gAwIBAgIUW/+gDVZbngfMGScSJFuTH3+z0sgwDQYJKoZIhvcNAQEL
 BQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN
