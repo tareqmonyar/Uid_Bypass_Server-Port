@@ -1,6 +1,6 @@
 {
-  "proxy_address": "caboose.proxy.rlwy.net",
-  "proxy_port": "37609",
+  "proxy_address": "mainline.proxy.rlwy.net",
+  "proxy_port": "19998",
   "certificate": "-----BEGIN CERTIFICATE-----
 MIIDNTCCAh2gAwIBAgIUEY0ASUAl4bagLUzuJP848Axr0y8wDQYJKoZIhvcNAQEL
 BQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN
